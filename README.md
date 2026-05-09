@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://know-devs.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-know--devs-1F3864?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-TU%20Ilmenau%2C%20Germany-2E5496?style=for-the-badge&logo=google-maps&logoColor=white"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=faizanbhagat7&style=for-the-badge&color=1F3864"/>
