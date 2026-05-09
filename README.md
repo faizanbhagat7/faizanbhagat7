@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Faizan 👋</h1>
 
 <p align="center">
-  <b>Aspiring DevOps Engineer &nbsp;|&nbsp; MSc RCSE @ TU Ilmenau &nbsp;|&nbsp; Full-Stack Dev turned Cloud/DevOps</b>
+  <b>Aspiring DevOps Engineer &nbsp;|&nbsp; MSc RCSE @ TU Ilmenau &nbsp</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 - 🔬 Current research: **LLM-Agent-Powered Hardware Verification** (RAG + Memory + HDL Testbench Gen)
 - 🌱 Active on the **DevOps roadmap**: Docker, Kubernetes, Helm, GitHub Actions, ArgoCD, Terraform
 - 🤝 Made my first **open source contribution** → [`bregman-arie/devops-exercises`](https://github.com/bregman-arie/devops-exercises) *(German translation)*
-- 🍔 Co-founder of **BROS N' BITES** *(coming 2028)*
+
 
 ---
 
