@@ -101,10 +101,6 @@ Phase 5 — Observability   ░░░░░░░░░░░░░░░░░�
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://know-devs.netlify.app">
-    <img src="https://img.shields.io/badge/Website-know--devs.netlify.app-1F3864?style=flat-square&logo=netlify"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/faizanbhagat7">
     <img src="https://img.shields.io/badge/GitHub-faizanbhagat7-181717?style=flat-square&logo=github"/>
   </a>
