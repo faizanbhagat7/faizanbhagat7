@@ -18,8 +18,7 @@
 - 🛠️ Building toward **Junior DevOps / Cloud Engineering** — Docker → K8s → Helm → AWS → GitOps
 - 💻 Background in **full-stack web dev** — React JS, Python, Supabase
 - 🔬 Current research: **LLM-Agent-Powered Hardware Verification** (RAG + Memory + HDL Testbench Gen)
-- 🌱 Active on the **DevOps roadmap**: Docker, Kubernetes, Helm, GitHub Actions, ArgoCD, Terraform
-- 🤝 Made my first **open source contribution** → [`bregman-arie/devops-exercises`](https://github.com/bregman-arie/devops-exercises) *(German translation)*
+
 
 
 ---
